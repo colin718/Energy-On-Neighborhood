@@ -36,3 +36,14 @@
 
 <img width="937" height="836" alt="스크린샷 2025-12-17 14 48 25" src="https://github.com/user-attachments/assets/57ddbdff-8c25-4640-b4b3-1e0033bf1dd0" />
 
+### 발표 자료 (Presentation)
+**산업통상자원부 공공데이터 공모전 1차 합격 발표 자료**입니다.
+전체 기획 의도와 서비스 구조를 확인하실 수 있습니다.
+
+<img width="1333" height="729" alt="스크린샷 2025-12-17 15 11 39" src="https://github.com/user-attachments/assets/b7c0f536-6d65-4e4f-bd42-5722dd819e1f" />
+
+<img width="1358" height="807" alt="스크린샷 2025-12-17 15 12 46" src="https://github.com/user-attachments/assets/e6e3d31d-12fa-417e-970f-5fe1549ce793" />
+
+<img width="1280" height="738" alt="스크린샷 2025-12-17 15 13 29" src="https://github.com/user-attachments/assets/cf4f998e-3ecc-4b6b-bb9b-70983191f3f0" />
+
+
